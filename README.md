@@ -8,13 +8,13 @@ However, I think some of the work I've done others can benefit from and this see
 
 Initially, this repo will be divided into a couple of folders
 
-UsbInstallerFixes
+## UsbInstallerFixes
 This folder will contain the changes made to the original Kali USB installer to make UEFI boots work a little bit easier.
 
-KernelPatches
+## KernelPatches
 This is mainly going to be patches that are already available for Ubuntu, but slightly edited to work properly with Kali.
 
-GrubHacks
+## Grub2Hacks
 Since I haven't figured out exactly how everything is working in a normal UEFI boot with Grub and why things seemed to be F*d initially, I will describe my changes that made my instance of Kali work in a hacked-together fashion.
 
 Once I have done more research into everything and learned some of the finer details of UEFI, GRUB2, and the Kernel I'm sure the folder structuring and available items will change.
